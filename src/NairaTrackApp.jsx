@@ -582,18 +582,6 @@ export default function NairaTrackApp() {
                 </p>
               </div>
             </div>
-
-            <div className="card about-tech">
-              <h4>Technology Stack & Security</h4>
-              <div className="tech-badges">
-                <span className="tech-badge">Bcrypt Hashing</span>
-                <span className="tech-badge">JWT Authentication</span>
-                <span className="tech-badge">React 19</span>
-                <span className="tech-badge">Vite</span>
-                <span className="tech-badge">Express</span>
-                <span className="tech-badge">MongoDB Atlas</span>
-              </div>
-            </div>
           </section>
         </main>
       : !token ?
