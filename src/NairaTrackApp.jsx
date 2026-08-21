@@ -582,7 +582,7 @@ export default function NairaTrackApp() {
                 </p>
               </div>
             </div>
-          </section>
+              </section>
         </main>
       : !token ?
         /* ===== UNAUTHENTICATED LOGIN / REGISTER VIEW ===== */
